@@ -1,5 +1,7 @@
-import {picSlides} from './pic.js'
-import dotsC from './dots.js';
+import dotsTextImg from './dots.js';
+import {slideShow} from './slider.js';
 
-picSlides();
-dotsC();
+
+slideShow();
+dotsTextImg();
+
