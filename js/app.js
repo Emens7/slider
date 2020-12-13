@@ -1,7 +1,7 @@
-import dotsTextImg from './dots.js';
+//import dotsTextImg from './dots.js';
 import {slideShow} from './slider.js';
 
 
-slideShow();
-dotsTextImg();
+slideShow(3000, 800);
+//dotsTextImg();
 

@@ -11,7 +11,7 @@ const pictures = [
 
     {
         source: './img/new-years.jpg',
-        caption: 'Happy New years',
+        caption: 'Happy New Year!',
     },
 
     {
